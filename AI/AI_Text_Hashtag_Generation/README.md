@@ -69,8 +69,8 @@ The shareable notebook has been **sanitized** to read `GEMINI_API_KEY` from **Go
 
 | Contributor | GitHub | Work |
 | --- | --- | --- |
-| Team Member 1 | To be added | Arabic & English Text and Hashtag Generation (collaborative) |
-| Team Member 2 | To be added | Arabic & English Text and Hashtag Generation (collaborative) |
+| Menna Ahmed Amer | [https://github.com/menna-ahmed-amer] | Arabic & English Text and Hashtag Generation (collaborative) |
+| Manal Ramadan Ebrahim | [https://github.com/manalramadan111] | Arabic & English Text and Hashtag Generation (collaborative) |
 
 For shared changes, use accurately attributed individual commits or a `Co-authored-by` trailer when the commit genuinely reflects joint work. Do not upload duplicate copies of the same code solely to create separate contributor records.
 
