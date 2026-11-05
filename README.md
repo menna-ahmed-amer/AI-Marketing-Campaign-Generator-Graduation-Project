@@ -142,8 +142,8 @@ Explore the **[Application Screenshots](Screenshots/)** to preview the user inte
 
 | Team Member | Contribution | GitHub Profile |
 | --- | --- | --- |
-| Youssef Abdelnasser Ahmed | Image Generation (AI)  | — |
-| Mennatullah Ahmed Amer Ali | Generate Text & Hashtage (AR & Eng) | — |
+| Youssef Abdelnasser Ahmed | Image Generation (AI)  | [—](https://github.com/YoussefAbdelnasser11?tab=repositories) |
+| Mennatullah Ahmed Amer Ali | Generate Text & Hashtage (AR & Eng) | [—](https://github.com/menna-ahmed-amer) |
 | Manal Ramadan Ibrahim | Generate Text & Hashtage (AR & Eng) | — |
 | Farah Mohsen Mohamed | Backend.Net | — |
 | Rawda Mohamed Ahmed | Backend.Net | — |
