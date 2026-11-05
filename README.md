@@ -17,7 +17,7 @@ AD GENERATOR AI addresses this challenge by integrating AI-powered content gener
 
 Watch AD GENERATOR AI in action and explore how the application transforms campaign inputs into AI-generated marketing content.
 
-**[Watch the Project Demo](Demo/)** — open the demo folder to view the application walkthrough.
+**[Watch the Project Demo](https://github.com/menna-ahmed-amer/AI-Marketing-Campaign-Generator-Graduation-Project/releases/tag/v1.0.0)** — open the demo folder to view the application walkthrough.
 
 ## Key Features
 
@@ -145,7 +145,7 @@ Explore the **[Application Screenshots](Screenshots/)** to preview the user inte
 | Youssef Abdelnasser Ahmed | Image Generation (AI)  |[GitHub](https://github.com/YoussefAbdelnasser11?tab=repositories)|
 | Mennatullah Ahmed Amer Ali | Generate Text & Hashtage (AR & Eng) | [GitHub](https://github.com/menna-ahmed-amer) |
 | Manal Ramadan Ibrahim | Generate Text & Hashtage (AR & Eng) | — |
-| Farah Mohsen Mohamed | Backend.Net | — |
+| Farah Mohsen Mohamed | Backend.Net | [GitHub](https://github.com/FarahMohsenmohammed) |
 | Rawda Mohamed Ahmed | Backend.Net | — |
 | Mennatullah Ibrahim Abdelhamed | Flutter (Mobile Application) | — |
 
