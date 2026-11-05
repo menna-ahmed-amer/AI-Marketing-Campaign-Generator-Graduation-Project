@@ -87,7 +87,7 @@ The bilingual content-generation module produces marketing captions and hashtags
 **Arabic — LLM-Based Generation**
 
 - Generated Arabic marketing content using language-aware prompting and formatting rules.
-- The integrated-system documentation identifies **Gemini API** for Arabic generation; it also documents a **Qwen2.5 local pipeline** explored during development. The published module code is the reference for its final implementation.
+- The integrated-system documentation identifies **Gemini API** for Arabic generation; The published module code is the reference for its final implementation.
 
 *The Arabic and English text-and-hashtag work was developed collaboratively by two team members.*
 
