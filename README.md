@@ -142,12 +142,12 @@ Explore the **[Application Screenshots](Screenshots/)** to preview the user inte
 
 | Team Member | Contribution | GitHub Profile |
 | --- | --- | --- |
-| Youssef Abdelnasser Ahmed | — | — |
-| Mennatullah Ahmed Amer Ali | — | — |
-| Manal Ramadan Ibrahim | — | — |
-| Farah Mohsen Mohamed | — | — |
-| Rawda Mohamed Ahmed | — | — |
-| Mennatullah Ibrahim Abdelhamed | — | — |
+| Youssef Abdelnasser Ahmed | Image Generation (AI)  | — |
+| Mennatullah Ahmed Amer Ali | Generate Text & Hashtage (AR & Eng) | — |
+| Manal Ramadan Ibrahim | Generate Text & Hashtage (AR & Eng) | — |
+| Farah Mohsen Mohamed | Backend.Net | — |
+| Rawda Mohamed Ahmed | Backend.Net | — |
+| Mennatullah Ibrahim Abdelhamed | Flutter (Mobile Application) | — |
 
 *Contributions and GitHub profile links will be filled in from the team's confirmed roles and usernames. Arabic and English text-and-hashtag generation was a shared contribution by two members.*
 
